@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/zetwo_botz_'
-global.sgh = 'https://github.com/JakaV1'
-global.sgc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
-global.sdc = 'https://wa.me/message/MKYNWO66LFYPL1'
+global.sig = 'https://instagram.com/Rielgans'
+global.sgh = 'https://github.com/Rieltod'
+global.sgc = 'https://tinyurl.com/y5ck3k4u'
+global.sdc = 'https://wa.me/6282146218274'
 global.snh = 'https://'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081335334848'
+global.pdana = '083813417529 [riel]'
 global.povo = '-'
-global.pgopay = '085785694474'
-global.ppulsa = '081335334848'
-global.ppulsa2 = '081335334848'
+global.pgopay = '-'
+global.ppulsa = '-'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281335334848'
-global.nomorown = '6285785694474'
-global.namebot = 'Zerotwo Botz'
-global.nameown = 'Jaka - Kun'
+global.nomorbot = '6283893377366'
+global.nomorown = '6282146218274'
+global.namebot = 'Rielbotz-Md'
+global.nameown = 'Riel - Kun'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['625785694474'],
-  ['6285785694474'],
-  ['85785694474'],
-  ['62831433937633', '❦ Jaka - Kun', true]
+  ['6282146218274'],
+  ['6282146218274'],
+  ['6282146218274'],
+  ['6282146218274', '❦ Riel - Kun', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
