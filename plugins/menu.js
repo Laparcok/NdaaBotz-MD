@@ -34,7 +34,7 @@ const defaultMenu = {
 %m2 *Mode:* %mode
 %m2 *Platform:* %platform
 %m2 *Type:* Node.Js
-%m2 *Baileys:* Multi Device
+%m2 *Baileys:* Multi Device beta
 %m2 *Prefix:* [ *%_p* ]
 %m2 *Uptime:* %muptime
 %m2 *Database:* %rtotalreg dari %totalreg
