@@ -11,24 +11,24 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
-• Owner berhak blockir tanpa alasan
-• Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
-• No Telp`
+• Ownernya ganteng lo ga sv rugi✓🗿
+• Owner berhak blockir tanpa alasan✓
+• Berbicaralah yang sopan & tidak spam✓
+• Owner Hanya merespon yang berkaitan dengan BOT✓
+• No Telp✓`
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *Nama RP:* Jaka
+${htjava} *Nama RP:* RIELGANS
 ${htjava} *Nama RL:* Private
-${htjava} *Umur:* 16 Tahun
-${htjava} *Kelas:* 10 Smp
-${htjava} *Status:* Couple
+${htjava} *Umur:* 15 Tahun
+${htjava} *Kelas:* 9 Smp
+${htjava} *Status:* JOMBLO COK🗿
 
-${htjava} *Ulang Tahun:* 20 Juni 2006
-${htjava} *Alamat:* Malaysia, Kuala lumpur
-${htjava} *Skills:* 
+${htjava} *Ulang Tahun:* 03 JuLi 2006
+${htjava} *Alamat:* INDONESIA, Samarinda
+${htjava} *Skills:* ngebot [90,34%]
 > JavaScript [89.7%]
 > Python [13.4%]
 > Html [1.2%]
